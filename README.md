@@ -40,8 +40,8 @@ It extracts alphanumeric CAPTCHA text using image preprocessing and OCR techniqu
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/yourusername/your-repo-name.git
-cd your-repo-name
+git clone https://github.com/AK-ALiEN/ocr-captcha-solver.git
+cd ocr-captcha-solver
 ```
 
 ### 2. Install Dependencies
